@@ -12,7 +12,7 @@ body{
     height: 100vh;
 }
 .card{
-    background-color: #272727;
+    background-color: #202020;
     border-radius: 15px;
     padding: 16px;
     width: 350px;
@@ -44,7 +44,7 @@ body{
     font-size: 14px;
 }
 
-.divider {
+.line {
     border: 0;
     height: 1.5px;
     width: 110%;
@@ -57,7 +57,6 @@ body{
 .card_body{
     font-size: 16px;
     margin-bottom: 10px;
-    line-height: 1.5;
 }
 .card_footer a{
     color: #3a9af0;
